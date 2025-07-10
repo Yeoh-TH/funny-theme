@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Funny THeme
+description: "Tian Huai's first Jekyll theme I guess, idk what to write here lol"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
