@@ -1,8 +1,16 @@
 
-body {
-  background-color: hsl(0, 81%, 63%);
+:root {
+  background-color: hsl(67, 85%, 66%);
   font-family: 'Times New Roman', Times, serif;
   margin: auto;
   max-width: 70ch;
-  color: hsla(213, 78%, 23%, 0.192);
+  color: hsl(0, 0%, 0%);
+  padding: 1rem;
+}
+
+body{
+  width: 50vw;
+  position: absolute;
+  text-align: center;
+  border: 1px solid hsl(0, 0%, 0%);
 }

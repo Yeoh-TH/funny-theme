@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: layout
 ---
 
 # Very funny website theme
