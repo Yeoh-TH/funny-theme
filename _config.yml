@@ -1,5 +1,8 @@
 title: Funny THeme
 description: "Tian Huai's first Jekyll theme I guess, idk what to write here lol"
 encoding: utf-8
+url: https://yeoh-th.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /funny-theme/      # place folder name if the site is served in a subfolder
+
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
